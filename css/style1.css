@@ -1,0 +1,75 @@
+/* CSS Document */
+*{margin:0;padding:0;}
+ul,li{list-style:none;}
+a{text-decoration:none;font:12px "微软雅黑";}
+ul{width:980px;margin:20px auto;}
+
+/*------------------nav1----------------*/
+.nav1{height:55px;background:url(../images/nav1-bg1.jpg);}
+.nav1 li{float:left;background:url(../images/nav1-bg2.jpg) no-repeat right top;}
+.nav1 a{display:block;height:55px;line-height:55px;color:#fff;padding:0 15px;}
+.nav1 a:hover{background:url(../images/nav1-bg3.jpg);}
+
+/*------------------nav2----------------*/
+.nav2{height:44px;background:url(../images/nav2-bg1.jpg) repeat-x left bottom;padding-left:10px;}
+.nav2 li{float:left;}
+.nav2 li a{display:block;padding:0 15px; color:#b2a698;height:44px;line-height:40px;} 
+.nav2 li a:hover{background:url(../images/nav2-bg2.jpg);color:#fff;line-height:35px;}
+
+/*------------------nav3----------------*/
+.nav3{height:35px; background:#0FF;border-bottom:1px solid #4b7ca5;}
+.nav3 li{float:left;}
+.nav3 li a{padding:0 15px;display:block;line-height:32px;color:#fff;margin-top:2px;background:#1f75c2;height:32px;border-top:1px solid #4b7ca5;}
+.nav3 li a:hover{background:#2a83d7;height:34px;margin:0;}
+
+/*------------------nav4----------------*/
+.nav4{height:40px;border-bottom:1px solid #9f9f9f;}
+.nav4 li{float:left;}
+.nav4 li a{display:block;height:35px;border:1px solid #cecece;border-bottom:none;padding:0 15px;line-height:39px;margin-left:10px;color:#9699a0;background:#f7f7f7;margin-top:4px;}
+.nav4 li a:hover{height:40px;border-color:#9e9e9e;background:#fff;margin-top:0;color:#9e9e9e;}
+
+/*------------------nav5----------------*/
+.nav5{height:20px;border-bottom:8px solid #de4b15;}
+.nav5 li{float:left;}
+.nav5 li a{display:block;width:80px;height:20px;line-height:20px;background:#dfdfdf;margin-left:2px;color:#000;text-align:center;}
+.nav5 li a b{font-weight:100;display:none;}
+.nav5 li a:hover{background:#de4b15;color:#fff;}
+.nav5 li a:hover span{display:none;}
+.nav5 li a:hover b{display:block;}
+
+/*------------------nav6----------------*/
+.nav6{height:32px;background:#9a0000;}
+.nav6 li{float:left;}
+.nav6 li a{padding:0 15px;height:32px;line-height:32px;color:#fff;display:block;}
+.nav6 li a:hover{background:url(../images/nav6-bg1.jpg);color:red;}
+.nav6 li a:hover span{display:block;background:url(../images/nav6-bg2.jpg) no-repeat center 3px;}
+
+/*------------------nav7----------------*/
+.nav7{height:53px;background:url(../images/nav7-bg1.jpg);}
+.nav7 li{float:left;}
+.nav7 li a{display:block;}
+.nav7 li a span{display:block;padding:0 15px;border-right:1px solid #e7e7e7;height:48px;line-height:48px;}
+.nav7 li a:hover{border-bottom:5px solid #fff;}
+
+
+/*------------------nav8----------------*/
+.nav8{height:35px;background:#9c0000;}
+.nav8 li{float:left;margin-left:1px;border-right:1px solid #000;}
+.nav8 li a{display:block;height:28px;border-top:5px solid #fff;line-height:28px;background:#ff6100;padding:0 35px;}
+.nav8 li a:hover{background:#000;border-color:#9c0000;}
+
+
+
+/*------------------nav9----------------*/
+.nav9{height:42px;background:#fbb017;}
+.nav9 li{float:left;}
+.nav9 li a{display:block;height:37px;background:url(../images/nav9-bg1.jpg) repeat-x;line-height:37px;}
+.nav9 li a span{padding:0 25px;background:url(../images/nav9-bg2.jpg) no-repeat right center;display:block;}
+.nav9 li a:hover{background:#fbb017;}
+
+
+
+
+
+
+
